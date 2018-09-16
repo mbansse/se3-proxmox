@@ -1,4 +1,4 @@
-#Virtualisation ses serveurs avec proxmox 5
+# Virtualisation ses serveurs avec proxmox 5
 
 
 Cet article est avant tout un pense-bête personnel des différentes opérations que j'ai du effectuer pour virtualiser les serveurs de mon lycée. Je laisse donc les pros de proxmox ajouter les précisions techniques importantes (notamment sur les clusters,etc)
